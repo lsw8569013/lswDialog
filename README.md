@@ -12,3 +12,5 @@
 ##gif图片 少了一种自己实效的动画效果 。
 ###blog.csdn.com/lsw8569013
 ![image](https://github.com/lsw8569013/lswDialog/blob/master/animator.gif ) 
+
+![image](https://github.com/lsw8569013/lswDialog/blob/master/QQ图片20170115174957.jpg ) 
