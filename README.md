@@ -12,4 +12,5 @@
 ##gif图片 少了一种自己实效的动画效果 。
 ###blog.csdn.com/lsw8569013
 ![image](https://github.com/lsw8569013/lswDialog/blob/master/animator.gif ) 
+##最新代码效果截图
 ![image](https://github.com/lsw8569013/lswDialog/blob/master/xin_tanxing.jpg ) 
